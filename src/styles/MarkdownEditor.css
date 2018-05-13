@@ -1,0 +1,23 @@
+.markdown-editor {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	flex-grow: 1;
+	width: 0;
+}
+
+.markdown-editor-text {
+	display: inline-block;
+	flex-grow: 1;
+	width: 100%;
+	padding: 0px;
+}
+
+@media only screen and (max-width: 750px) {
+  .markdown-editor {
+  	flex-grow: 1;
+  	width: auto;
+  	height: 0;
+  }
+}
