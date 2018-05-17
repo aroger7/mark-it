@@ -16,7 +16,6 @@
 
 @media only screen and (max-width: 750px) {
   .markdown-editor {
-  	flex-grow: 1;
   	width: auto;
   	height: 0;
   }
