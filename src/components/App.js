@@ -59,7 +59,7 @@ Different ways
 1. With many items
   * With some sub items of their own!
 \n
-* Or introducing a little anarchy with unordered lists
+* Or introduce a little anarchy with unordered lists
 	* And chaotic sub items!
 
 [Link to interesting places](http://www.adamrogers.ca)
