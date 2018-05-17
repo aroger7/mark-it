@@ -14,9 +14,12 @@
 	overflow: auto;
 }
 
+.markdown-body > * {
+	font-family: sans-serif;
+}
+
 @media only screen and (max-width: 750px) {
 	.markdown-preview {
-		flex-grow: 1;
 		width: auto;
 		height: 0;
 	}
